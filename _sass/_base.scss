@@ -43,14 +43,13 @@ a, table.table a {
 // Profile
 
 .profile {
-  margin-left: 1rem;
+  margin-right: 1rem;
   width: 100%;
 
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
-    font-size: 1.2rem;
+    font-size: 1.2 rem;
     p {
       display: inline-block;
       margin: 0;
@@ -115,6 +114,7 @@ a, table.table a {
     padding-bottom: 0;
     padding-top: 0;
     font-size: 1.7rem;
+    margin-left:50px;
     a {
       i::before {
         color: var(--global-text-color);

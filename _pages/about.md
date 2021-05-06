@@ -1,24 +1,22 @@
 ---
 layout: about
 title: about
-permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+permalink: /about/
+description: 
+order: 1
+nav: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# About
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I’m currently a first year Ph.D student in Cognitive Psychology at the University of Texas. My graduate advisor is Dr. Cristine Legare (link) and I work in her EVOLearn (link) lab.
+
+I received my B.A. in Anthropology and Phycology from Skidmore College, where my thesis work explored children’s selective trust in accented speakers and the malleability of accent-based discrimination.
+
+During my undergraduate years I’ve worked with Dr. Susan Gelman (link) and Kristen Marchack (link) to study children’s conceptual development, tendency to use overhypotheses and ability to learn from linguistic cues of generality. 
+
+I am a UWC Davis Scolar (link) and I have completed by International Baccalaureate at the United World College of South East Asia, Singapore.
+
+I was born and raised in Budapest, Hungary, but I was lucky enough to have lived in Singapore, Nepal, India and U.S. during my academic career. The possibility to live with individuals of different cultural backgrounds has greatly influenced my research and I thrive to understand how our differences can be celebrated and how our similarities may help promote cooperation, collaboration, teaching and learning in the current globalized environment. 
+
