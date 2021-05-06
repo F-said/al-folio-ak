@@ -2,7 +2,7 @@
 layout: page
 title: COVID-19 Behaviors
 description: 
-img: /assets/img/12.jpg
+img: /assets/img/IMG_3120.JPG
 importance: 1
 ---
 
