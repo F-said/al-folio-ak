@@ -1,12 +1,18 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching/mentoring
+title: Teaching/Mentoring
 description: 
 nav: true
 order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+* 2021 Summer - Teaching Assistant, Introduction to Developmental Psychology, Instructor: [Jessica Church-Lang](https://liberalarts.utexas.edu/psychology/faculty/jc58227), University of Texas at Austin
 
-Organize your courses by years, topics, or universities, however you like!
+* 2021 Spring - Teaching Assistant, Cognitive Science or Religion, Instructor: [Cristine H. Legare](https://liberalarts.utexas.edu/psychology/faculty/chl525), University of Texas at Austin
+
+* 2019 Fall-2020 Spring - Undergraduate research trainer, Language and Social Development Lab, PI: [Jessica Sullivan](https://www.skidmore.edu/psychology/faculty/sullivan.php), Skidmore College
+
+* 2018 Fall - Peer Mentor, Classless Society, Instructor: [Janet Casey](https://www.skidmore.edu/english/faculty/casey.php), Skidmore College 
+
+* 2017-2019 Peer Health Educator, Program coordinator: [Jennifer McDonald](https://www.skidmore.edu/health_promotion/staff.php), Skidmore College
