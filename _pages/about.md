@@ -5,7 +5,7 @@ permalink: /about/
 description: 
 order: 1
 nav: true
-header-img: 'IMG_2944 (1).jpg'
+header-img: IMG_2944 (1).jpg
 ---
 
 I’m currently a first year Ph.D student in Cognitive Psychology at the University of Texas. My graduate advisor is Dr. Cristine Legare (link) and I work in her EVOLearn (link) lab.
