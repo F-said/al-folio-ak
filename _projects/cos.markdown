@@ -2,7 +2,7 @@
 layout: page
 title: Culture of Schooling
 description: 
-img: /assets/img/IMG_0735 (3).JPG
+img: /assets/img/IMG_0735.JPG
 importance: 2
 ---
 
