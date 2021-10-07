@@ -1,3 +1,3 @@
 # ajnafkertesz.com
 
-Grad student bio website.
+Ajna F. Kertesz's personal website.
