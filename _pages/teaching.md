@@ -7,6 +7,9 @@ nav: true
 order: 3
 ---
 
+
+* 2021 Fall - Teaching Assistant, Emotion, Instructor: [Jacqueline Evans](https://liberalarts.utexas.edu/psychology/faculty/jjr383), University of Texas at Austin
+
 * 2021 Summer - Teaching Assistant, Introduction to Developmental Psychology, Instructor: [Jessica Church-Lang](https://liberalarts.utexas.edu/psychology/faculty/jc58227), University of Texas at Austin
 
 * 2021 Spring - Teaching Assistant, Cognitive Science or Religion, Instructor: [Cristine H. Legare](https://liberalarts.utexas.edu/psychology/faculty/chl525), University of Texas at Austin
