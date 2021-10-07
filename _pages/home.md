@@ -18,4 +18,5 @@ social: false  # includes social icons at the bottom of the page
 header-img: assets/img/IMG_0553.JPG
 ---
 
-Ajna F. Kertész is a first-year cognitive psychology Ph.D. student at The University of Texas at Austin in [Dr. Cristine H. Legare’s EVOLearn Lab](http://cristinelegare.com/). She is studying the role of social norms and identity in the context of learning and evaluation of novel information. She is broadly interested in how social identity signalling impacts who do individuals trust and look to learn from. 
+Ajna F. Kertész is a second-year cognitive psychology Ph.D. student at The University of Texas at Austin in [Dr. Cristine H. Legare’s EVOLearn Lab](http://cristinelegare.com/). he is interested in how social norms and identities shape behavior and conformity, as well as how children learn and evaluate novel information. She graduated from Skidmore College with a B.A. with honors in psychology and anthropology and completed her senior thesis on children’s selective trust in accented speakers. Ajna hopes to use her research to inform public policy in the fields of health and education as well as to empower parents and caregivers by introducing practical learning and parenting strategies.
+
