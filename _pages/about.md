@@ -8,7 +8,7 @@ nav: true
 header-img: ../assets/img/IMG_2944.jpg
 ---
 
-I’m currently a second year Ph.D student in Cognitive Psychology at the University of Texas. My graduate advisor is [Dr. Cristine Legare](http://cristinelegare.com/) and I work in her [EVOLearn](http://cristinelegare.com/lab) lab.
+I’m currently a second year Ph.D student in Cognitive Psychology at the University of Texas. My graduate advisor is [Dr. Cristine Legare](http://cristinelegare.com/) and I work in her [Center for Applied Cognitice Science ](https://www.centerforappliedcogsci.com/people).
 
 I received my B.A. in Anthropology and Psychology from Skidmore College, where my thesis work explored children’s selective trust in accented speakers and the malleability of accent-based discrimination.
 
