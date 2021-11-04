@@ -2,7 +2,7 @@
 layout: page
 title: Thinkery Connect
 description: 
-img: 
+img: assets/img/Thinkery connect.png
 importance: 3
 ---
 
