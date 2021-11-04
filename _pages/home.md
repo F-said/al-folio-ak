@@ -6,7 +6,7 @@ description:
 
 profile:
   align: left
-  image: Ajna_F_Kertesz_small
+  image: Ajna_F_Kertesz_small.png
   address: >
     <p>akertesz@utexas.edu</p>
     <p>University of Texas at Austin</p>
