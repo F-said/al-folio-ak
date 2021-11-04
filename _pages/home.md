@@ -9,7 +9,7 @@ profile:
   image: Ajna_F_Kertesz_small.png
   address: >
     <p>akertesz@utexas.edu</p>
-    <p>University of Texas at Austin</p>
+    <p>The University of Texas at Austin</p>
     <p>SEA Building 1.316E</p>
 
 news: false  # includes a list of news items
