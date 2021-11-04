@@ -2,6 +2,7 @@
 layout: page
 title: Multivocal
 description: 
+img: /assets/img/Multivocal learning.png
 importance: 4
 ---
 
