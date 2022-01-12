@@ -6,7 +6,7 @@ description:
 nav: true
 order: 3
 ---
-
+* 2022 Spring - Teaching Assistant, Positive Psychology/ The Good Life, Instructor: [Allison Mrazek](https://liberalarts.utexas.edu/psychology/faculty/ajm7696), University of Texas at Austin
 
 * 2021 Fall - Teaching Assistant, Emotion, Instructor: [Jacqueline Evans](https://liberalarts.utexas.edu/psychology/faculty/jjr383), University of Texas at Austin
 
