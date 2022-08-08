@@ -8,7 +8,9 @@ nav: true
 header-img: ../assets/img/IMG_2944.jpg
 ---
 
-I’m currently a second year Ph.D student in Cognitive Psychology at the University of Texas. My graduate advisor is [Dr. Cristine Legare](http://cristinelegare.com/) and I work in her [Center for Applied Cognitice Science ](https://www.centerforappliedcogsci.com/people).
+I’m currently a third year Ph.D student in Cognitive Psychology at the University of Texas. My graduate advisor is [Dr. Cristine Legare](http://cristinelegare.com/) and I work in her [Center for Applied Cognitice Science ](https://www.centerforappliedcogsci.com/people).
+
+I recieved my M.A. in Psychology from the University of Texas at Austin. My Master's thesis explored the role of Cultural Tightness and COVID-19 Threat perception in predicting compliance with COVID-19 health norms across 11 countries.
 
 I received my B.A. in Anthropology and Psychology from Skidmore College, where my thesis work explored children’s selective trust in accented speakers and the malleability of accent-based discrimination.
 
