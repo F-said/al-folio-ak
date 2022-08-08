@@ -6,13 +6,18 @@ description:
 nav: true
 order: 3
 ---
+
+* 2022 Fall - Teaching Assistant, Cognitive Developmenta,  Instructor: [Katherine Tillman](https://liberalarts.utexas.edu/psychology/faculty/kat2962), University of Texas at Austin
+
+* 2022 Summer - Teaching Assistant, Introduction to Developmental Psychology,  Instructor: [Jessica Church-Lang](https://liberalarts.utexas.edu/psychology/faculty/jc58227), University of Texas at Austin
+
 * 2022 Spring - Teaching Assistant, Positive Psychology/ The Good Life, Instructor: [Allison Mrazek](https://liberalarts.utexas.edu/psychology/faculty/ajm7696), University of Texas at Austin
 
 * 2021 Fall - Teaching Assistant, Emotion, Instructor: [Jacqueline Evans](https://liberalarts.utexas.edu/psychology/faculty/jjr383), University of Texas at Austin
 
 * 2021 Summer - Teaching Assistant, Introduction to Developmental Psychology, Instructor: [Jessica Church-Lang](https://liberalarts.utexas.edu/psychology/faculty/jc58227), University of Texas at Austin
 
-* 2021 Spring - Teaching Assistant, Cognitive Science or Religion, Instructor: [Cristine H. Legare](https://liberalarts.utexas.edu/psychology/faculty/chl525), University of Texas at Austin
+* 2021 Spring - Teaching Assistant, Cognitive Science of Religion, Instructor: [Cristine H. Legare](https://liberalarts.utexas.edu/psychology/faculty/chl525), University of Texas at Austin
 
 * 2019 Fall-2020 Spring - Undergraduate research trainer, Language and Social Development Lab, PI: [Jessica Sullivan](https://www.skidmore.edu/psychology/faculty/sullivan.php), Skidmore College
 
