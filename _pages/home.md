@@ -10,7 +10,7 @@ profile:
   address: >
     <p>akertesz@utexas.edu</p>
     <p>The University of Texas at Austin</p>
-    <p>SEAY Psychology Building </p>
+    <p>SEAY 1.318 B </p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
