@@ -8,7 +8,7 @@ nav: true
 header-img: ../assets/img/IMG_2944.jpg
 ---
 
-I’m currently a third year Ph.D student in Developmental Psychology at the University of Texas. My graduate advisor is [Dr. Catherine H. Echols](https://liberalarts.utexas.edu/psychology/faculty/echolsch) and I work in her [Langauge Development Lab](https://labs.la.utexas.edu/echols/current-studies/).
+I’m currently a fourth year Ph.D student in Developmental Psychology at the University of Texas. My graduate advisor is [Dr. Catherine H. Echols](https://liberalarts.utexas.edu/psychology/faculty/echolsch) and I work in her [Langauge Development Lab](https://labs.la.utexas.edu/echols/current-studies/).
 
 I recieved my M.A. in Psychology from the University of Texas at Austin. My Master's thesis explored the role of Cultural Tightness and COVID-19 Threat perception in predicting compliance with COVID-19 health norms across 11 countries.
 
